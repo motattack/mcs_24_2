@@ -1,1 +1,1 @@
-# Гибкие методологии и Continuous Integration [🔙](..)
+# Гибкие методологии и Continuous Integration [🔙](https://github.com/motattack/mcs_24_2)

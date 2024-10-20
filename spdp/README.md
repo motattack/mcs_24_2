@@ -19,17 +19,17 @@ mpiexec -np
 ```
 
 ### 📖 Книги:
-1. [CUDA C++ Programming Guide](lessons/books/CUDA_guide.pdf)
-2. [Параллельные вычисления на GPU - Боресков](lessons/books/Boreskov_Parallelnye-vychisleniya-na-GPU-Arhitektura-i-programmnaya-model-CUDA.pdf)
-3. [CUDA. API - Романенко](lessons/books/4ICaG_2.pdf)
-4. [Основы работы с технологией CUDA - Боресков](lessons/books/Boreskov_A_V_,_Kharlamov_A_A._Introduction_to_CUDA_Technology_2010.pdf)
-5. [Программная архитектура CUDA - Калгин](lessons/books/cuda-2-program-arch.pdf)
-6. [Технология CUDA в примерах - Сандерс, 2013](lessons/books/Sanders_J_,_Kandrot_E._CUDA_by_Example_2013.pdf)
-7. [🇬🇧 CUDA Programming - Cook](lessons/books/Shane_Cook_—_CUDA_Programming_A_Developer's_Guide_to_Parallel_Computing.pdf)
-8. [🇬🇧 Deep Belief Nets in C++ and CUDA C: Volume 3 - Timothy](lessons/books/Masters_T_Deep_Belief_Nets_in_C++_and_CUDA_C_Volume_3_Convolutional.pdf)
-9. [🇬🇧 Parallel Computing for Data Science - Norman](lessons/books/Norman_Matloff_Parallel_Computing_for_Data_Science_With_Examples.pdf)
-10. [🇬🇧 CUDA Application Design and Development - Farber](lessons/books/Rob_Farber_—_CUDA_Application_Design_and_Development_—_2011.pdf)
-11. [🇬🇧 PROFESSIONAL CUDA C Programming - Cheng](lessons/books/Cheng_J_,_Grossman_M_,_McKercher_T_Professional_CUDA_C_Programming.pdf)
+1. [CUDA C++ Programming Guide](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/CUDA_guide.pdf)
+2. [Параллельные вычисления на GPU - Боресков](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/Boreskov_Parallelnye-vychisleniya-na-GPU-Arhitektura-i-programmnaya-model-CUDA.pdf)
+3. [CUDA. API - Романенко](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/4ICaG_2.pdf)
+4. [Основы работы с технологией CUDA - Боресков](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/Boreskov_A_V_,_Kharlamov_A_A._Introduction_to_CUDA_Technology_2010.pdf)
+5. [Программная архитектура CUDA - Калгин](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/cuda-2-program-arch.pdf)
+6. [Технология CUDA в примерах - Сандерс, 2013](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/Sanders_J_,_Kandrot_E._CUDA_by_Example_2013.pdf)
+7. [🇬🇧 CUDA Programming - Cook](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/Shane_Cook_—_CUDA_Programming_A_Developer's_Guide_to_Parallel_Computing.pdf)
+8. [🇬🇧 Deep Belief Nets in C++ and CUDA C: Volume 3 - Timothy](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/Masters_T_Deep_Belief_Nets_in_C++_and_CUDA_C_Volume_3_Convolutional.pdf)
+9. [🇬🇧 Parallel Computing for Data Science - Norman](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/Norman_Matloff_Parallel_Computing_for_Data_Science_With_Examples.pdf)
+10. [🇬🇧 CUDA Application Design and Development - Farber](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/Rob_Farber_—_CUDA_Application_Design_and_Development_—_2011.pdf)
+11. [🇬🇧 PROFESSIONAL CUDA C Programming - Cheng](https://raw.githubusercontent.com/motattack/mcs_24_2/main/spdp/lessons/books/Cheng_J_,_Grossman_M_,_McKercher_T_Professional_CUDA_C_Programming.pdf)
 ---
 
 

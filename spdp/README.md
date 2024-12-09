@@ -1,6 +1,8 @@
 # Суперкомпьютеры и параллельная обработка данных [🔙](https://github.com/motattack/mcs_24_2)
 
-## ⚡ CUDA [Кластер](https://cc.dvfu.ru/)
+## cuda workspace [Colab](https://colab.research.google.com/drive/1tNsD0SaX7n3JbppFaNYVNI22XTchCv0h?usp=sharing)
+
+## ⚡ CUDA [Кластер] >> (https://cc.dvfu.ru/)
 Базовые команды для работы на кластере.
 
 ### 📦 Загрузка модуля CUDA:
